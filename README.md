@@ -6,14 +6,36 @@
 🐍 Python | MySQL | Machine Learning
 🚀 Exploring Agentic AI & Intelligent Systems
 
-## Current Focus
+---
 
-* AI & Automation
-* Machine Learning Projects
-* Python Development
-* Building Real-World Applications
+## 🔹 Current Focus
 
-## Projects
+* Artificial Intelligence
+* Agentic AI
+* Machine Learning
+* Automation
+* Software Development
+
+---
+
+## 🔹 Projects
 
 * AI-Based Air Quality Prediction System
 * College Event Management System
+
+---
+
+## 🔹 Technical Skills
+
+* Python
+* Java
+* MySQL
+* Git & GitHub
+* Tkinter
+* XGBoost (Basic)
+
+---
+
+## 🔹 Goal
+
+To build intelligent and impactful software solutions using AI and automation technologies.
