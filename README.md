@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdullah Khan 👋
 
-<!--
-**Abdxleo/Abdxleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Information Technology Student
+🤖 Aspiring AI Engineer
+💻 Passionate about AI, Automation & Software Development
+🐍 Python | MySQL | Machine Learning
+🚀 Exploring Agentic AI & Intelligent Systems
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI & Automation
+* Machine Learning Projects
+* Python Development
+* Building Real-World Applications
+
+## Projects
+
+* AI-Based Air Quality Prediction System
+* College Event Management System
